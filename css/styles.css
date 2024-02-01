@@ -1,0 +1,31 @@
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+.conteiner {
+}
+
+.section {
+    background-color: #1e1823;
+}
+
+.benefits-list {
+    display: flex;
+    gap: 88px;
+}
+.benefits-item {
+    width: 308px;
+}
+.benefits-title {
+
+font-weight: 600;
+font-size: 18px;
+color: #fff;
+}
+.benefits-text {
+    font-family: "Montserrat", sans-serif;
+font-weight: 400;
+font-size: 14px;
+letter-spacing: -0.02em;
+color: rgba(255, 255, 255, 0.7);
+}
